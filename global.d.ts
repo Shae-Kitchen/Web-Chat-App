@@ -1,3 +1,3 @@
-import module = require("p5");
+import module = require("three");
 export = module;
-export as namespace p5;
+export as namespace three;
