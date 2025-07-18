@@ -1,4 +1,4 @@
-import * as THREE from "three";
+/* import * as THREE from "three";
 
 const width = window.innerWidth;
 const height = window.innerHeight;
@@ -41,3 +41,4 @@ function animate(time: number) {
 }
 renderer.setAnimationLoop(animate);
 
+ */
